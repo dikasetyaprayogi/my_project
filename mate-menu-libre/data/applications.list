@@ -1,0 +1,12 @@
+location:/usr/share/applications/iceweasel.desktop
+location:/usr/share/applications/icedove.desktop
+location:/usr/share/applications/pidgin.desktop
+location:/usr/share/applications/rhythmbox.desktop
+separator
+location:/usr/share/applications/mate-calc.desktop
+location:/usr/share/applications/pluma.desktop
+location:/usr/share/applications/mate-terminal.desktop
+location:/usr/share/applications/mate-volume-control.desktop
+separator
+location:/usr/share/applications/mate-display-properties.desktop
+location:/usr/share/applications/mate-system-monitor.desktop
